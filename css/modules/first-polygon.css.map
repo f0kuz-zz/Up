@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,UAAU;EACR,MAAM,EAAE,MAAM;EACd,gBAAgB,EAAE,OAAO;EACzB,gBAAgB,EAAE,8CAA8C;EAChE,SAAS,EAAE,uCAAuC",
+"sources": ["first-polygon.sass"],
+"names": [],
+"file": "first-polygon.css"
+}

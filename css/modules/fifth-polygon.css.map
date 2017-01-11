@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,cAAc;EACZ,QAAQ,EAAE,QAAQ;EAClB,MAAM,EAAE,MAAM;;AAEhB,YAAY;EACV,QAAQ,EAAE,QAAQ;EAClB,GAAG,EAAE,CAAC;EACN,KAAK,EAAE,CAAC;EACR,MAAM,EAAE,CAAC;EACT,UAAU,EAAE,iBAAiB;EAC7B,YAAY,EAAE,gBAAgB;EAC9B,aAAa,EAAE,gBAAgB;EAC/B,WAAW,EAAE,kBAAkB",
+"sources": ["fifth-polygon.sass"],
+"names": [],
+"file": "fifth-polygon.css"
+}

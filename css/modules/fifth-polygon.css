@@ -1,0 +1,15 @@
+.fifth-polygon {
+  position: relative;
+  height: 1200px; }
+
+.third-trian {
+  position: absolute;
+  top: 0;
+  width: 0;
+  height: 0;
+  border-top: 200px solid green;
+  border-right: 2060px solid red;
+  border-bottom: 520px solid blue;
+  border-left: 730px solid yellow; }
+
+/*# sourceMappingURL=fifth-polygon.css.map */
